@@ -1,0 +1,27 @@
+{
+  "name": "multiprocess",
+  "version": "1.0.0",
+  "description": "multiprocess",
+  "main": "main.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/ActorModel.git"
+  },
+  "keywords": [
+    "actor",
+    "model",
+    "multiprocess"
+  ],
+  "author": "therealtoresto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/ActorModel/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/ActorModel#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.10"
+  }
+}
